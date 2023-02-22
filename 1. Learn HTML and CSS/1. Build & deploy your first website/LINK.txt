@@ -1,2 +1,0 @@
-Link to my-personal-site on Netlify:
-https://scrimba-my-personal-site.netlify.app/
