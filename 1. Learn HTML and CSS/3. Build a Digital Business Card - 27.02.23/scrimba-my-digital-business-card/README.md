@@ -1,4 +1,4 @@
-# My digital business card
+# My Digital Business Card
 
 My software developer, digital business card.
 

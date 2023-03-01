@@ -10,3 +10,5 @@ Repository contains all projects I have made, going through the multiple Scrimba
     - Link to scrimba-my-google-clone: https://scrimba-my-google-clone.netlify.app/
 3.  Build a Digital Business Card - 27.02.23
     - Link to scrimba-my-digital-business-card: https://scrimba-my-digital-business-card.netlify.app/
+4.  Build a Space Exploration Site - 01.03.23
+    - Link to scrimba-my-space-exploration-site: https://scrimba-my-space-exploration-site.netlify.app/

@@ -1,4 +1,4 @@
-# My google clone
+# My Google Clone
 
 My google clone site.
 

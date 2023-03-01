@@ -1,5 +1,5 @@
-# My digital business card
+# My Personal Site
 
-My software developer, digital business card.
+My simple personal site.
 
-Link to uploaded project: https://scrimba-my-digital-business-card.netlify.app/
+Link to uploaded project: https://scrimba-my-personal-site.netlify.app/
