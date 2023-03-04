@@ -12,3 +12,5 @@ Repository contains all projects I have made, going through the multiple Scrimba
     - Link to scrimba-my-digital-business-card: https://scrimba-my-digital-business-card.netlify.app/
 4.  Build a Space Exploration Site - 01.03.23
     - Link to scrimba-my-space-exploration-site: https://scrimba-my-space-exploration-site.netlify.app/
+5.  Build a Birthday Gift Site - 04.03.23
+    - Link to scrimba-my-birthday-gift-site: https://scrimba-my-birthday-gift-site.netlify.app/
