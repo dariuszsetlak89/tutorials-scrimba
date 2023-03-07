@@ -17,5 +17,7 @@ Repository contains all projects I have made, going through the multiple Scrimba
 
 ## HTML and CSS Crash Course
 
-1.  Practice time 1 - 06.03.23
+1.  Practice time 1: My example Webpage - 06.03.23
     - Link to scrimba-my-example-webpage: https://scrimba-my-example-webpage.netlify.app/
+2.  Practice time 2: Earth and Mars Webpage - 07.03.23
+    - Link to scrimba-my-earth-and-mars-page: https://scrimba-my-earth-and-mars-page.netlify.app/
