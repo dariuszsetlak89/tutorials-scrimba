@@ -1,0 +1,52 @@
+body {
+  margin-top: 30px;
+  background-image: url("green.jpg");
+  background-size: cover;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+  height: 100vh;
+}
+
+.container {
+  background: YellowGreen;
+  width: 400px;
+  margin: auto;
+  border: 5px solid darkgreen;
+  border-radius: 10px;
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: darkgreen;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: green;
+}
+
+button {
+  border: 3px solid darkgreen;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: lightgray;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+#increment-btn {
+  background: #248232;
+}
+
+#save-btn {
+  background: #04471c;
+}
+
+#save-el {
+  font-weight: bold;
+}

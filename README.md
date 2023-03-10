@@ -23,3 +23,8 @@ Repository contains all projects I have made, going through the multiple Scrimba
     - Link to scrimba-my-earth-and-mars-page: https://scrimba-my-earth-and-mars-page.netlify.app/
 3.  Final project: I'm learning HTML and CSS - 08.03.23
     - Link to scrimba-html-css-crash-final-project: https://scrimba-html-css-crash-final-project.netlify.app/
+
+## Learn JavaScript
+
+1.  Build a passenger counter app - 10.03.23
+    - Link to scrimba-my-people-counter: https://scrimba-my-people-counter.netlify.app/
